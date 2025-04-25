@@ -13,3 +13,24 @@ This research explores and compares the performance of **Python** and **R** in c
 
 ---
 
+
+## 📌 Final Conclusion
+
+This study concludes that **both Python and R** are capable of efficiently performing **hierarchical clustering** on small datasets. However:
+
+- **Python** demonstrated **slightly better performance** in terms of:
+  - **Lower RAM usage** (130 MB vs. 168 MB)
+  - **Faster CPU processing** (0.6s vs. 0.9s)
+  - **Stronger popularity growth**, especially among experienced professionals
+
+- **R** remains a powerful tool for statistical computing, offering:
+  - Advanced visualization libraries like `ggplot2`
+  - Tailored packages for social sciences and research
+  - Simpler syntax for complex statistical operations
+
+📌 **Bottom Line:**  
+Your choice should depend on the **project needs**, your **familiarity with the language**, and whether you prioritize **flexibility (Python)** or **statistical depth and visualization (R)**.
+
+Both tools are valuable and can even complement each other in a data science workflow.
+
+---
