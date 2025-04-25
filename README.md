@@ -1,6 +1,6 @@
 # Comparing Python and R for Data Science 🐍📊📈
 
-This project explores and compares the performance of **Python** and **R** in conducting **hierarchical clustering**, with a focus on **CPU and RAM usage**. It highlights the strengths and trade-offs of each language for data science tasks.
+This research explores and compares the performance of **Python** and **R** in conducting **hierarchical clustering**, with a focus on **CPU and RAM usage**. It highlights the strengths and trade-offs of each language for data science tasks.
 
 ---
 
@@ -13,10 +13,3 @@ This project explores and compares the performance of **Python** and **R** in co
 
 ---
 
-## ⚙️ Tools & Technologies
-
-| Python | R |
-|--------|---|
-| pandas, scipy, matplotlib, scikit-learn | base R, stats, dendextend |
-
----
